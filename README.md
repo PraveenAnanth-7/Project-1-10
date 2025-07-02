@@ -21,5 +21,3 @@ An AI-powered tool that automatically generates summaries, hashtags, and titles 
 - **Audio Processing**: moviepy
 - **File Management**: Python standard library
 
-## 📁 Project Structure
-
