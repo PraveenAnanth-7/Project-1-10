@@ -1,0 +1,13 @@
+Generate 5 catchy, YouTube-optimized video titles based on this transcript. Include curiosity, clarity, and trending language. Make them engaging and click-worthy while accurately representing the content.
+
+Guidelines:
+- Use power words and emotional triggers
+- Include numbers when relevant (Top 5, 3 Ways, etc.)
+- Create curiosity gaps
+- Keep titles under 60 characters when possible
+- Use trending keywords
+- Make them specific and valuable
+- Avoid clickbait that doesn't match content
+- Consider your target audience
+
+Transcript:

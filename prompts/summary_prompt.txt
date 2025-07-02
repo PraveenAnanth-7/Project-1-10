@@ -1,0 +1,10 @@
+Given the following transcript of a YouTube video, write a concise and engaging summary in 3–4 sentences. Focus on the main points, key takeaways, and value proposition for viewers. Make it informative yet compelling.
+
+Guidelines:
+- Capture the essence of the video content
+- Highlight the most important information
+- Use clear, accessible language
+- Make it suitable for video descriptions
+- Focus on what viewers will learn or gain
+
+Transcript:

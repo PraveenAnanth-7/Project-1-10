@@ -1,0 +1,7 @@
+python -m venv venv
+venv\\Scripts\\activate
+pip install -r requirements.txt
+pip install streamlit yt-dlp faster-whisper google-generativeai pytube pydub
+
+$env:GEMINI_API_KEY="AIzaSyDvX-vAasQqaYnXnuaqMfa92TEq0v76Pck"; $env:KMP_DUPLICATE_LIB_OK="TRUE"; 
+streamlit run app.py --server.address localhost --server.port 5000

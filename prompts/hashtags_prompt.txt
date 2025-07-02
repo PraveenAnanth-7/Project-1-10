@@ -1,0 +1,13 @@
+Extract the top 10 SEO-optimized hashtags from this YouTube video transcript. Focus on relevancy, search trends, and audience discoverability.
+
+Guidelines:
+- Use relevant keywords from the content
+- Include trending and searchable terms
+- Mix broad and specific hashtags
+- Consider your target audience
+- Avoid overly generic tags
+- Include industry/niche specific terms
+- Format each hashtag with # prefix
+- One hashtag per line
+
+Transcript:
